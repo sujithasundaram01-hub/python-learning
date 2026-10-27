@@ -1,0 +1,23 @@
+# Booleans and Conditionals
+
+## Overview
+This module introduces Boolean values and conditional statements in Python.
+
+## Topics Covered
+- Boolean values: True and False
+- Comparison operators
+- Conditional statements
+- if, elif, and else
+- Making decisions using conditions
+
+## Learning Goal
+Understand how Python programs make decisions based on conditions.
+
+## Practice
+Completed the Booleans and Conditionals theory module on freeCodeCamp.
+
+## Source Code
+[View Python Practice Program](booleans_and_conditionals.py)
+
+## Platform
+freeCodeCamp
